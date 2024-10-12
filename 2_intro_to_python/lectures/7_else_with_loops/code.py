@@ -13,5 +13,3 @@ else:
     print("All cars built successfully. No faulty cars!")
 
 
-# Remove the "faulty" and you'll see the `else` part starts running.
-# Link: https://blog.tecladocode.com/python-snippet-1-more-uses-for-else/

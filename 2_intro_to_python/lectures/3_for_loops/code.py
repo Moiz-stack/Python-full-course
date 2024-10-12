@@ -1,6 +1,6 @@
 # -- Repeat once for each element of an iterable --
 
-friends = ["Rolf", "Jen", "Anne"]
+friends = ["Moiz", "Ali", "Qasim"]
 
 for friend in friends:
     print(friend)
